@@ -1,10 +1,6 @@
-Another version. Should be easier to apply textures as required. This was created from a blank screen using an earlier version as a reference. I find it is often better/easier to create a model with texturing in mind as it is created rather than try to texture an existing one.
+https://github.com/John-Bray/Tower
 
-was: 3.8MB, surfaces: 41276   vertices: 52946
-
-now: 116KB, surfaces: 926   vertices: 834
-
-Texture used is from 
+The texture used is from 
 https://polyhaven.com/a/castle_brick_01
 
 "Poly Haven is a curated public asset library for visual effects artists and game designers, providing useful high quality 3D assets in an easily obtainable manner.
@@ -12,3 +8,4 @@ https://polyhaven.com/a/castle_brick_01
 There are no paywalls, accounts or email forms required, just download an asset and use it without worry.
 
 All assets here are CC0, which means they're practically free of copyright and you may use them for absolutely any purpose."
+

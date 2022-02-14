@@ -5,7 +5,7 @@ kids 4
 OBJECT poly
 name "supports"
 loc -0.0102648 46.4173 2.02656e-06
-texture "castle_brick_01_diff_1k.jpg"
+texture "castle_brick_01_diff_1k.png"
 crease 45.000000
 numvert 288
 0.755633 0.555 -0.933407
@@ -2733,7 +2733,7 @@ kids 0
 OBJECT poly
 name "column"
 loc 0 5.75741 0
-texture "castle_brick_01_diff_1k.jpg"
+texture "castle_brick_01_diff_1k.png"
 crease 45.000000
 numvert 513
 0 41.7392 0
@@ -6805,7 +6805,7 @@ refs 4
 kids 0
 OBJECT poly
 name "hexagon"
-texture "castle_brick_01_diff_1k.jpg"
+texture "castle_brick_01_diff_1k.png"
 crease 45.000000
 numvert 25
 2 3.59872 -9.77516e-06
@@ -6999,7 +6999,7 @@ refs 3
 kids 0
 OBJECT poly
 name "base"
-texture "castle_brick_01_diff_1k.jpg"
+texture "castle_brick_01_diff_1k.png"
 crease 45.000000
 numvert 8
 -2 0 -2
